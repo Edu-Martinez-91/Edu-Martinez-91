@@ -1,16 +1,18 @@
 <div align="center">
 
-# ¡Hola! Soy Edu 👋
+# Hi, I'm Edu 👋
 
-**Analista/ingeniero de datos y biólogo reconvertido al mundo del dato.**
+**Data analyst/engineer, biologist and sound technician turned data person — life is too interesting not to be curious about things that have nothing to do with each other.**
+
+🇬🇧 **English** · [🇪🇸 Español](README.es.md)
 
 </div>
 
 ---
 
-Me gusta ordenar el caos con SQL, Power BI y procesos ETL, entender el contexto detrás de cada número y construir cosas que sirvan de verdad.
+I like turning chaos into order with SQL, Power BI and ETL pipelines, understanding the context behind every number, and building things that actually get used.
 
-En mi tiempo libre diseño apps para hacerme la vida un poco más fácil, con cierta obsesión por trackear rutinas diarias y ponerle números a esas pequeñas acciones que repetimos casi sin darnos cuenta.
+In my free time I build apps to make my own life a little easier, with a mild obsession for tracking daily routines and putting numbers on the small actions we repeat without even noticing. Off-screen, my two vices are traveling and karaoke.
 
 ## 🛠️ Stack
 
@@ -23,12 +25,12 @@ En mi tiempo libre diseño apps para hacerme la vida un poco más fácil, con ci
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
 ### [propancestor](https://github.com/Edu-Martinez-91/propancestor)
-Herramienta de investigación genealógica para árboles personales — un solo archivo HTML, sin frameworks, sin build, sin npm.
-[Usar la app →](https://ubiquitous-cat-fb3b45.netlify.app)
+Genealogy research tool for personal family trees — a single HTML file, no frameworks, no build, no npm.
+[Use the app →](https://ubiquitous-cat-fb3b45.netlify.app)
 
 ### [IG Unfollowers](https://github.com/Edu-Martinez-91/Unfollowers)
-Descubre quién no te sigue de vuelta en Instagram, sin login ni backend — un solo archivo HTML.
-[Usar la app →](https://dynamic-paprenjak-816b02.netlify.app)
+Find out who doesn't follow you back on Instagram, no login or backend required — a single HTML file.
+[Use the app →](https://dynamic-paprenjak-816b02.netlify.app)
