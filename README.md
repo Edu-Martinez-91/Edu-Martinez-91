@@ -14,7 +14,14 @@ En mi tiempo libre diseño apps para hacerme la vida un poco más fácil, con ci
 
 ## 🛠️ Stack
 
-`SQL` · `Power BI` · `ETL` · `Python` · `JavaScript` · `Supabase`
+![PostgreSQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Pentaho](https://img.shields.io/badge/Pentaho-lightgrey)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
 
 ## 🚀 Proyectos destacados
 
