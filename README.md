@@ -27,7 +27,7 @@ In my free time I build apps to make my own life a little easier, with a mild ob
 
 ## 🚀 Featured projects
 
-### [propancestor](https://github.com/Edu-Martinez-91/propancestor)
+### [Propancestor](https://github.com/Edu-Martinez-91/propancestor)
 Genealogy research tool for personal family trees — a single HTML file, no frameworks, no build, no npm.
 [Use the app →](https://ubiquitous-cat-fb3b45.netlify.app)
 

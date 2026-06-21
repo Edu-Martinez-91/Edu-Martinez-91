@@ -27,7 +27,7 @@ En mi tiempo libre diseño apps para hacerme la vida un poco más fácil, con ci
 
 ## 🚀 Proyectos destacados
 
-### [propancestor](https://github.com/Edu-Martinez-91/propancestor)
+### [Propancestor](https://github.com/Edu-Martinez-91/propancestor)
 Herramienta de investigación genealógica para árboles personales — un solo archivo HTML, sin frameworks, sin build, sin npm.
 [Usar la app →](https://ubiquitous-cat-fb3b45.netlify.app)
 
